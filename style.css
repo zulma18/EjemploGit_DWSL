@@ -22,3 +22,9 @@ img {
     width: 40rem;
     height: 30rem;
 }
+
+footer, p {
+    padding: 65px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
